@@ -29,8 +29,10 @@ Fique a vontade para elaborar o layout dessa página da forma que você achar me
 ### Diferenciais
 
 
-Você pode fazer com a stack que quiser, mas se conseguir fazer com a stack que usamos aqui na SE, conta um pontinho extra à seu favor :)
+Você pode fazer com a stack que quiser, mas se conseguir fazer com a stack que usamos aqui na SE, conta um pontinho extra à seu favor, assim como implementar testes.
+
 Também pode brincar com os gráficos, apresentar como achar melhor, permitir filtros, permitir que sejam customizaveis, etc. 
+
 Pode usar sua criatividade. :smiley:
 
 #### Stack
