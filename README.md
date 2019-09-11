@@ -2,7 +2,7 @@
 ## Desafio Front-end SoftExpert
 
 #### Desafio focado para o time de Analytics
-----
+
 O time de analytics trabalha com ingestão e apresentação de dados, por isso, esse desafio é direcionado nesse sentido. 
 Peço que me retorne o desafio até o dia 16/09 (segunda-feira). Se não conseguir fazer tudo, não tem problema. Me envie o que tiver feito.
 
@@ -24,7 +24,7 @@ Para isso você vai precisar:
 Fique a vontade para elaborar o layout dessa página da forma que você achar melhor :v:
 
 ### Diferenciais
-----
+
 
 Você pode fazer com a stack que quiser, mas se conseguir fazer com a stack que usamos aqui na SE, conta um pontinho extra à seu favor :)
 Também pode brincar com os gráficos, apresentar como achar melhor, permitir filtros, permitir que sejam customizaveis, etc. 
