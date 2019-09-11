@@ -7,6 +7,7 @@ O time de analytics trabalha com ingestão e apresentação de dados, por isso, 
 Peço que me retorne o desafio até o dia 16/09 (segunda-feira). Se não conseguir fazer tudo, não tem problema. Me envie o que tiver feito.
 
 Se não for conseguir entregar nesse prazo, me avisa que podemos tentar negociar :grin:
+Você pode entregar o desafio através desse mesmo repositório, ou criar um repositório novo no Github ou outro host público da sua preferência. Organização dos commits também é bom :smile:
 
 O desafio é o seguinte:
 
