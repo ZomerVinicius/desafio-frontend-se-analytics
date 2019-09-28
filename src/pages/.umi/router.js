@@ -12,6 +12,16 @@ const routes = [
     component: require('../../layouts/index.js').default,
     routes: [
       {
+        path: '/components/AnalyticsTable',
+        exact: true,
+        component: require('../components/AnalyticsTable.js').default,
+      },
+      {
+        path: '/components/DashboardAnalytics',
+        exact: true,
+        component: require('../components/DashboardAnalytics.js').default,
+      },
+      {
         path: '/',
         exact: true,
         component: require('../index.js').default,

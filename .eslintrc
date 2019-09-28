@@ -5,6 +5,8 @@
     "prettier/prettier": ["error"],
     "react/jsx-filename-extension": 0,
     "no-undef": 0,
-    "react/react-in-jsx-scope": 0
+    "react/react-in-jsx-scope": 0,
+    "import/no-extraneous-dependencies": 0,
+    "react/require-default-props": 0
   }
 }
