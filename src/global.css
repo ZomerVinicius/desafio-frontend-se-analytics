@@ -1,0 +1,17 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+.expert-color {
+  color: #0091ed;
+}
+
+.expert-bg-color {
+  background-color: #0091ed;
+}
